@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "antlr4": "^4.9.3",
+    "antlr4-webpack-loader": "^0.1.1"
+  }
+}
